@@ -1,4 +1,4 @@
-# Project Libft    
+# Libft    
 
 ## [C Library Development, Standard Functions Reimplementation, Memory Management, String Manipulation, Linked Lists]  
 
